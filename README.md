@@ -1,4 +1,4 @@
-# ALX-HIGHER_LEVEL_PROGRAMMINiG
+# ALX-HIGHER_LEVEL_PROGRAMMINIG
 ---
 
 Multiple project directories with files containing python projects given by alx to help in my learning and understanding of the language.
