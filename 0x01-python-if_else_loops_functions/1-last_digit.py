@@ -5,11 +5,7 @@ number = random.randint(-10000, 10000)
 if number >= 0:
     last_digit = number % 10
 else:
-<<<<<<< HEAD
     last_digit = ((-number % 10) * -1)
-=======
-    last_digit = ((-number % 10) * -1) 
->>>>>>> a635f55a510ba968f7b7da739c34c3030ef76239
 
 print("Last digit of {} is {}".format(number, last_digit), end='')
 
