@@ -22,7 +22,7 @@ class Student:
 
         If attrs is a list of strings, only retrieve attribute names
         contained in the list else retrieve all attributes
-        
+
         Args:
             attrs (list): The attributes to represent
         """
