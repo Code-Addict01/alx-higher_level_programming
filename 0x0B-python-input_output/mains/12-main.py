@@ -11,7 +11,7 @@ def print_triangle(triangle):
     """
 
     for row in triangle:
-        print("[{}]".format(",".json([str(x) for in row ])))
+        print("[{}]".format(",".join([str(x) for x in row])))
 
 
 if __name__ == "__main__":
